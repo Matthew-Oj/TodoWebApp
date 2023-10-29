@@ -29,12 +29,11 @@ To add a new task, enter the task description in the input field and press enter
 
 To mark a task as complete, click the checkbox next to the task.
 
-## Feedback and Support
-If you encounter any issues or have feedback, please feel free to open an issue on GitHub. We appreciate your input!
-
 ## Installation 
 Check out requirements.txt
 Run: 
 ```bash
 pip install streamlit
 ```
+## Feedback and Support
+If you encounter any issues or have feedback, please feel free to open an issue on GitHub. We appreciate your input!
