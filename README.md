@@ -19,7 +19,7 @@ Mark tasks as complete: Once a task is completed, you can check it off to mark i
 Easy task management: Keep track of your tasks and their status in one place.
 
 ## Visuals
-![Alt text]
+![Alt text](Capture.PNG)
 
 ## Usage
 Visit the live web app at https://my-todo-web-appgi-knainq6nk9k2do4nkg3bte.streamlit.app/.
